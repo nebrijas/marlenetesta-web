@@ -1,4 +1,4 @@
-# Repositorio del módulo de Periodismo de Datos 2
+# Actividad dirigida 1
 
 Para realizar esta actividad del curso de Periodismo de Datos 2, escogí un reportaje de la periodista, *Hassel Fallas,*  del diario **La Nación de Costa Rica,** cuyo [enlace] copio aquí: (https://www.nacion.com/data/divorcios-se-triplicaron-en-ultimas-tres-decadas/PV2BFG4CEJEN5G7QAMQS2VIBUE/story/)
 
