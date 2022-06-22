@@ -20,6 +20,6 @@ La contextualización de datos me resulta interesante.  Aqui vamos a enumaerar o
 1.  Por ejemplo, compara los divorcios en dos siglos distintos y lo hace narrando historias humananas.  Puede destacarse que la relación de los divorcios con las reformas al  **Código de Familia y los efectos sociales del fenómeno refuerza el contenido del texto y le ofrece profundidad.**
 2. Está muy bien presentado el material gráfico.  Logré navegar y digerir sin complicaciones la información compilada en las infografías.
 3.  Es un reportaje de profundidad, cuya lectura resulta sumamente liviana e interesante por el apoyo de las infografías y la redacción precisa y concisa.
-# [Actividad dirigida 1](ad1.md)
+- [Actividad dirigida 1](ad1.md)
 
-# [Actividad dirigida 2](ad2.md)
+- [Actividad dirigida 2](ad2.md)
