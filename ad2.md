@@ -30,7 +30,7 @@
 
 - Después de ingresar a la página hay qque colocar *generar nuevo token* y en un espacio denominado **nota** una identificación, por ejemplo, PD2. 
 
-- Habría que colocar la fecha de expiración del token y marcar en repo para actividad todas las casillas de los repositorios.  Y, por último, colocar **generar token**
+- Habría que colocar la fecha de expiración del token y marcar en repo para actividad todas las casillas de los repositorios.  Y, por último, colocar generar *token*
 
 - De inmediato se generaría una serie de números y letras. Ahora habría que dirigirse a Git Bash y colocar echo "(*token*)"> ../.token
 
