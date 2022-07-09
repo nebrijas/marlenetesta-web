@@ -18,9 +18,9 @@ import pandas as pd
 
 ## El paso a paso
 
-Se explicara el paso a paso de como se usa el codigo.
+Se explica el paso a paso de cómo se usa el código.
 
-###  Paso 1 - se consigue la informacion del API del Covid-19
+###  Paso 1 - se consigue la información del API del Covid-19
 
 Se utiliza una variable url con el fin de manejar la  API del Covid-19, donde se consultara los datos y una variable tipo lista el cual tendra los datos de los países de la API del Covid-19. Se usa una variable para la función `pd.read_json`, el cual utilizara la variable url
 
