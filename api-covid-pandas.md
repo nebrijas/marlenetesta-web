@@ -4,13 +4,13 @@ Me conecto a la API: ***https://api.covid19api.com/***
 
 ## Instalación
 
-Se requiere instalar una libreria externa
+Se requiere instalar una librería externa
 
 ```python
 !pip install pandas
 ```
 
-## Importacion de libreria
+## Importación de librería
 
 ```python
 import pandas as pd
