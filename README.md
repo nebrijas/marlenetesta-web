@@ -17,7 +17,7 @@ A través de las actividades dirigidas hemos logrado desarrollar el conocimiento
 
 - Durante el curso aprendí a crear una cuenta en *Github*, una plataforma que permite alojar proyectos, y en donde quedaría alojada la página *https://nebrijas.github.io/marlenetesta-web/*
 - En *Github* creamos un repositorio denominado Readme.md, que funcionaría como un archivo de las actividades dirigidas del curso, desde donde se podría acceder a cada una de ellas a través de un enlace.
-- La primera actividad dirigida buscaba familiarizar al estudiante con **Mardown**, un lenguaje de marcado para generar textos con formatos.  Para aprender más de este lenguaje realizamos tutoriales.
+- La primera actividad dirigida buscaba familiarizar al estudiante con **Mardown**, un lenguaje de marcado para generar textos con formatos.  Desde la plataforma de Github escribimos con Mardown de un artículo de datos.
 - En la segunda actividad dirigida hubo que instalar el *Git Bash*, una aplicación de **Microsoft Windows** que permite conectar con *Github.*
 - La aplicaciòn era lo màs parecido a un editor de textos, que posteriormente permitía editar notas y subirlas al repositorio. 
 - En un principio me costò muchísimo aprender a utilizar la aplicaciòn por el desconocimiento de los códigos, pero terminé divirtiéndome. Creo, lo digo en serio, que ahora formará parte de mi día a día.
