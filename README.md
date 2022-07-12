@@ -3,18 +3,17 @@
 
 ## Actividad final
 
-### Síntesis de lo aprendido
+### Curiosidades
 
 El curso de **Periodismo de Datos 2** me ha resultado productivo para el desempeño de mis labores periodísticas. Ahora paso a enumerar las razones de mi afirmación.
 
-- El cuaderno de **Jupyter** me ha permitido aprender a realizar gráficas que pueden servir para contar historias.
 - El desarrollo de las actividades dirigidas con las herramientas que ha ofrecido el curso contruibirán a mejorar la calidad del trabajo que día a día realizo como perioidsta.
 - El curso ha despertado el interés de aprender más de estas y otras herramientas de recolecciçon de datos para ilustrar los hechos de manera cuàntitiva y gráfica.
 
 El aprendizaje de herramientas como *Git Bash* y *Github* resultaron todo un reto, en un periodo relativamente corto, sin embargo, estoy convencida de que valió la pena el esfuerzo. 
 A través de las actividades dirigidas hemos logrado desarrollar el conocimiento  y habilidades de la disciplina del periodismo de datos.
 
-### Descripción de trabajo efectuado en clases
+### Descripción de trabajo reaizado en clases
 
 - Durante el curso aprendí a crear una cuenta en *Github*, una plataforma que permite alojar proyectos, y en donde quedaría alojada la página *https://nebrijas.github.io/marlenetesta-web/*
 - En *Github* creamos un repositorio denominado Readme.md, que funcionaría como un archivo de las actividades dirigidas del curso, desde donde se podría acceder a cada una de ellas a través de un enlace.
