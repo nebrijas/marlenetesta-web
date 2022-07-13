@@ -3,7 +3,7 @@
 
 ## Actividad final
 
-### Curiosidades
+### Utilidad
 
 El curso de **Periodismo de Datos 2** me ha resultado productivo para el desempeño de mis labores periodísticas. Ahora paso a enumerar las razones de mi afirmación.
 
